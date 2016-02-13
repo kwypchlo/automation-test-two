@@ -1,0 +1,19 @@
+{
+  "name": "automation-test-one",
+  "version": "0.15.0",
+  "description": "some desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwypchlo/automation-test-one.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwypchlo/automation-test-one/issues"
+  },
+  "homepage": "https://github.com/kwypchlo/automation-test-one#readme"
+}
